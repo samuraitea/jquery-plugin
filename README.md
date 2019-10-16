@@ -1,3 +1,5 @@
+<h1>PLUGIN FROM https://github.com/alejandromur/type-this </h1>
+
 <h1>Type-this|</h1>
 <p>A simple Vanilla JavaScript plugin that animates any message you want. No jQuery is needed. No pretentions, just for fun</p>
 
